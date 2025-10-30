@@ -8,5 +8,5 @@ This repository contains Cisco Packet Tracer simulation files (`.pkt`), for the 
 
 ## Lab Details ##
 
-**Lab 1: Router IP Configuration**
-**Lab 2: Subnetting in WAN**
+- **Lab 1: Router IP Configuration**
+- **Lab 2: Subnetting in WAN**
